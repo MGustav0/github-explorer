@@ -30,7 +30,7 @@ Neste projeto desenvolvo uma interface para pesquisar e mostrar repositórios do
 
 :heavy_check_mark: Funcionalidade 4  
 
-## Layout ou Deploy da Aplicação :dash:
+## Layout da Aplicação :dash:
 
 ![Título_da_Imagem](Link_da_Imagem)
 
