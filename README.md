@@ -65,6 +65,6 @@ Ainda não ocorreu
 
 ## Licença
 
-Interface desenhada pela Rocketseat para o Bootcamp.
+[Interface](https://www.figma.com/file/HOCmxfrElzLpI75LdzFLia/Github-Explorer?node-id=0%3A1) desenhada pela Rocketseat para o Bootcamp.
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
