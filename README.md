@@ -22,13 +22,13 @@ Neste projeto desenvolvo uma interface para pesquisar e mostrar repositórios do
 
 ## Funcionalidades
 
-:heavy_check_mark: Funcionalidade 1  
+:heavy_check_mark: Funcionalidade 1
 
-:heavy_check_mark: Funcionalidade 2  
+:heavy_check_mark: Funcionalidade 2
 
-:heavy_check_mark: Funcionalidade 3  
+:heavy_check_mark: Funcionalidade 3
 
-:heavy_check_mark: Funcionalidade 4  
+:heavy_check_mark: Funcionalidade 4
 
 ## Layout da Aplicação :dash:
 
@@ -47,7 +47,7 @@ Neste projeto desenvolvo uma interface para pesquisar e mostrar repositórios do
 
 3. Instale as dependencias: `yarn instal`
 
-4. Execute: `yarn`
+4. Execute: `yarn start`
 
 ## Casos de Uso
 
