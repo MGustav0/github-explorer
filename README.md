@@ -56,6 +56,7 @@ A interface trará os repositórios e usuários e armazenará no Storage do nave
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - [ReactJS](https://pt-br.reactjs.org/)
+- [LocalStorage](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/Window.localStorage)
 
 ## Resolvendo Problemas :exclamation:
 
