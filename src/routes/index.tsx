@@ -11,7 +11,7 @@ import Repository from '../pages/Repository';
 const Routes: React.FunctionComponent = () => (
   <Switch>
     <Route path="/" exact component={Dasboard} />
-    <Route path="/repository" component={Repository} />
+    <Route path="/repository/:repository+" component={Repository} />
   </Switch>
 );
 
