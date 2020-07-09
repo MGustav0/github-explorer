@@ -70,9 +70,7 @@ A interface trará os repositórios e usuários e armazenará no Storage do nave
 
 ## Resolvendo Problemas :exclamation:
 
-### Problema 1
-
-Ainda não ocorreu
+Me conte [aqui](https://github.com/MGustav0/github-explorer/issues).
 
 ## Licença
 
