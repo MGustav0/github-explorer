@@ -2,19 +2,7 @@
 
 ![Badge](https://img.shields.io/badge/Bootcamp%20Rocketseat-ReactJS-blueviolet)
 
-> Status do Projeto: Em desenvolvimento :warning:
-
-## Tópicos
-
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
-
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
-
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
-
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
-
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+> Status do Projeto: Finalizado :heavy_check_mark:
 
 ## Descrição do projeto
 
@@ -22,13 +10,13 @@ Neste projeto desenvolvo uma interface para pesquisar e mostrar repositórios do
 
 ## Funcionalidades
 
-:heavy_check_mark: Funcionalidade 1
+:heavy_check_mark: BUscar dados da API do GitHub.
 
-:heavy_check_mark: Funcionalidade 2
+:heavy_check_mark: Armazenar dados no Local Storage.
 
-:heavy_check_mark: Funcionalidade 3
+:heavy_check_mark: Exibir repositórios buscados.
 
-:heavy_check_mark: Funcionalidade 4
+:heavy_check_mark: Exibir página com issues e outras informações.
 
 ## Layout da Aplicação :dash:
 
