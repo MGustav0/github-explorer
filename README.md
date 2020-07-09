@@ -33,7 +33,7 @@ Neste projeto desenvolvo uma interface para pesquisar e mostrar repositórios do
 ## Layout da Aplicação :dash:
 
 Dashboard
-![Dashboard](https://github.com/MGustav0/github-explorer/blob/master/extras/Screens/GitHub_Explorer_-_Dashboard.png =400x200)
+![Dashboard](https://github.com/MGustav0/github-explorer/blob/master/extras/Screens/GitHub_Explorer_-_Dashboard.png)
 Repository
 ![Repository](https://github.com/MGustav0/github-explorer/blob/master/extras/Screens/GitHub_Explorer_-_Repository.png)
 Erro de Inserção
