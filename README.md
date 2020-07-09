@@ -33,16 +33,21 @@ Neste projeto desenvolvo uma interface para pesquisar e mostrar repositórios do
 ## Layout da Aplicação :dash:
 
 Dashboard
-![Dashboard](https://github.com/MGustav0/github-explorer/blob/master/extras/Screens/GitHub_Explorer_-_Dashboard.png)
-Repository
+![Dashboard](https://github.com/MGustav0/github-explorer/blob/master/extras/Screens/GitHub_Explorer_-_Dashboard.png | width=100)
+
+**Repository**
 ![Repository](https://github.com/MGustav0/github-explorer/blob/master/extras/Screens/GitHub_Explorer_-_Repository.png)
-Erro de Inserção
+
+**Erro de Inserção**
 ![Erro de Inserção](https://github.com/MGustav0/github-explorer/blob/master/extras/Screens/GitHub_Explorer_-_Error_1.png)
-Erro de campo vazio
+
+**Erro de campo vazio**
 ![Erro de campo vazio](https://github.com/MGustav0/github-explorer/blob/master/extras/Screens/GitHub_Explorer_-_Error_2.png)
-Mobile Dashboard
+
+**Mobile Dashboard**
 ![Mobile Dashboard](https://github.com/MGustav0/github-explorer/blob/master/extras/Screens/GitHub_Explorer_-_Mobile_Dashboard.jpg)
-Mobile Repository
+
+**Mobile Repository**
 ![Mobile Repository](https://github.com/MGustav0/github-explorer/blob/master/extras/Screens/GitHub_Explorer_-_Mobile_Repository.jpg)
 
 ## Pré-requisitos
