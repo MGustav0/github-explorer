@@ -33,15 +33,16 @@ Neste projeto desenvolvo uma interface para pesquisar e mostrar repositórios do
 <img src="https://github.com/MGustav0/github-explorer/blob/master/extras/Screens/GitHub_Explorer_-_Error_1.png" width="800" heigth="600" />
 
 **Erro de campo vazio**
+
 <img src="https://github.com/MGustav0/github-explorer/blob/master/extras/Screens/GitHub_Explorer_-_Error_2.png" width="800" heigth="600" />
 
 **Mobile Dashboard**
 
-![Mobile Dashboard](https://github.com/MGustav0/github-explorer/blob/master/extras/Screens/GitHub_Explorer_-_Mobile_Dashboard.jpg)
+<img src="https://github.com/MGustav0/github-explorer/blob/master/extras/Screens/GitHub_Explorer_-_Mobile_Dashboard.jpg" width="600" heigth="800" />
 
 **Mobile Repository**
 
-![Mobile Repository](https://github.com/MGustav0/github-explorer/blob/master/extras/Screens/GitHub_Explorer_-_Mobile_Repository.jpg)
+<img src="https://github.com/MGustav0/github-explorer/blob/master/extras/Screens/GitHub_Explorer_-_Mobile_Repository.jpg" width="600" heigth="800" />
 
 ## Pré-requisitos
 
