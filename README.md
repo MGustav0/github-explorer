@@ -10,7 +10,7 @@ Neste projeto desenvolvo uma interface para pesquisar e mostrar repositórios do
 
 ## Funcionalidades
 
-:heavy_check_mark: BUscar dados da API do GitHub.
+:heavy_check_mark: Buscar dados da API do GitHub.
 
 :heavy_check_mark: Armazenar dados no Local Storage.
 
