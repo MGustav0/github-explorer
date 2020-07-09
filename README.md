@@ -1,6 +1,6 @@
-# Titulo ou Arte do Projeto
+# GitHub Explorer
 
-![Badge](https://img.shields.io/badge/Bootcamp%20Rocketseat-ReactJS-blueviolet)
+![Badge](https://img.shields.io/badge/Bootcamp%20Rocketseat-ReactJS-blueviolet) ![Badge](https://img.shields.io/badge/types-Flow%20%7C%20TypeScript-blue)
 
 > Status do Projeto: Finalizado :heavy_check_mark:
 
