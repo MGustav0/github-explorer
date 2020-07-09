@@ -32,7 +32,17 @@ Neste projeto desenvolvo uma interface para pesquisar e mostrar repositórios do
 
 ## Layout da Aplicação :dash:
 
-![Título_da_Imagem](Link_da_Imagem)
+![Dashboard]()
+
+![Repository]()
+
+![Erro de Inserção]()
+
+![Erro de campo vazio]()
+
+![Mobile Dashboard]()
+
+![Mobile Repository]()
 
 ## Pré-requisitos
 
